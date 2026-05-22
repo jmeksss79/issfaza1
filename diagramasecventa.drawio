@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ToGN_Z66DxozaKCWrW8D">
+    <mxGraphModel dx="1873" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Presentation" vertex="1">
+          <mxGeometry height="1211" width="360" x="266" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Business Logic" vertex="1">
+          <mxGeometry height="1211" width="160" x="758" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Data Access" vertex="1">
+          <mxGeometry height="1211" width="363" x="978" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Utilizator" vertex="1">
+          <mxGeometry height="1186" width="35" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="MainDashboard" vertex="1">
+          <mxGeometry height="1186" width="150" x="271" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="TransactionDialog" vertex="1">
+          <mxGeometry height="1186" width="150" x="471" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-7" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ServiciuTranzactii" vertex="1">
+          <mxGeometry height="1186" width="150" x="763" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-8" parent="NzWHydaVijBs3A-Ek1_L-7" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="424" width="10" x="70" y="411" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Tranzactie" vertex="1">
+          <mxGeometry height="1186" width="150" x="983" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-10" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="RepoTranzactiiImpl" vertex="1">
+          <mxGeometry height="1186" width="153" x="1183" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-11" parent="NzWHydaVijBs3A-Ek1_L-10" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="306" width="10" x="72" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-12" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-5" value="click &quot;Adaugă Tranzacție&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="229" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-13" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-6" value="open()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-14" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-4" value="afișează formular">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="332" y="294" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-15" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-6" value="completează (suma, data, tip, categorie)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="348" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-16" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-6" value="click &quot;Salvează&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-17" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-8" value="adaugaTranzactie(Tranzactie)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-18" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-8" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-11" value="save(Tranzactie)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1059" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-19" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-11" style="curved=1;endArrow=block;rounded=0;" target="NzWHydaVijBs3A-Ek1_L-11" value="beginTransaction()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="564" />
+              <mxPoint x="1315" y="594" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-20" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-11" style="curved=1;endArrow=block;rounded=0;" target="NzWHydaVijBs3A-Ek1_L-11" value="persist(Tranzactie)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="648" />
+              <mxPoint x="1315" y="678" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-21" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-11" style="curved=1;endArrow=block;rounded=0;" target="NzWHydaVijBs3A-Ek1_L-11" value="commit()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="732" />
+              <mxPoint x="1315" y="762" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-22" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-11" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-8" value="return">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="816" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-23" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-8" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-6" value="succes">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="702" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-24" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-5" value="dispose()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="924" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-25" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-7" value="calculeazaSoldTotal()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="601" y="978" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-26" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-5" style="curved=1;endArrow=block;rounded=0;" target="NzWHydaVijBs3A-Ek1_L-5" value="incarcaDate()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="397" y="1032" />
+              <mxPoint x="397" y="1062" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzWHydaVijBs3A-Ek1_L-27" edge="1" parent="1" source="NzWHydaVijBs3A-Ek1_L-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="NzWHydaVijBs3A-Ek1_L-4" value="afișează tabel actualizat">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="1116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
